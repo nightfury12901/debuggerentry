@@ -1,0 +1,1524 @@
+.home-astro-bot-mod .astro-homepage-hero-wrapper>.slider {
+	background: linear-gradient(90deg, #150393, #0b308a)
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 {
+	background: linear-gradient(90deg, #150393, #0b308a);
+	position: relative
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 h2.txt-style-mega-light {
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 700;
+	letter-spacing: -.1px;
+	line-height: 125%;
+	text-transform: uppercase
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 h2.txt-style-mega-light {
+		font-size: 48px;
+		letter-spacing: -.1px;
+		line-height: 1
+	}
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 h2.txt-style-mega-light,
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 p.lc-plays877-price .simple-carousel-content .simple-carousel-cell:not(.is-selected) figcaption,
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 p.txt-style-secondary {
+	color: #fff !important
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 .simple-carousel-content .simple-carousel-cell.is-selected figcaption,
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 h3.txt-style-medium-title.txt-block-title__title {
+	color: #93ffff !important
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 .simple-carousel .simple-carousel-content .media-block__inner:before {
+	border-color: #999 !important
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 .simple-carousel .simple-carousel-content .media-block__inner figure {
+	background-color: #fff !important
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 .simple-carousel .pagination__blip {
+	background-color: #fff3 !important
+}
+
+.home-astro-bot-mod .homepage-hardware-wrapper-v2>.slider.featured-hardware-v2 .simple-carousel .pagination__blip--active {
+	background-color: #dedede !important
+}
+
+.home-astro-bot-mod .astro-list-games-grid {
+	background-color: #168db0;
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-listgames-bg?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative
+}
+
+.home-astro-bot-mod .astro-list-games-grid:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .astro-list-games-grid:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .astro-list-games-grid .background-parallax {
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0
+}
+
+.home-astro-bot-mod .astro-list-games-grid .background-parallax .parallax-inner {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-listgames-bg-parallax-m?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 120%;
+	opacity: .5;
+	width: 100%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-list-games-grid .background-parallax .parallax-inner {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-listgames-bg-parallax?$native--t$)
+	}
+}
+
+.home-astro-bot-mod .astro-list-games-grid div:nth-child(n+2) {
+	position: relative;
+	z-index: 100
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 header.game-grid-v2__title h2 {
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 28.32px;
+	font-style: normal;
+	letter-spacing: .1px;
+	line-height: 121%;
+	text-transform: uppercase
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 header.game-grid-v2__title h2 {
+		font-size: 43.9px;
+		letter-spacing: 0;
+		line-height: 125%
+	}
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 .tabs .tabs__content .simple-carousel-cell .game-grid-v2-tile__keyart {
+	background: #fff;
+	background: linear-gradient(180deg, #ffffff80, #99999980)
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 .tabs .tabs__content .simple-carousel-cell .game-grid-v2-tile__keyart .media-block__inner {
+	padding: 2px
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 .tabs .tabs__content .simple-carousel-cell .game-grid-v2-tile__keyart .media-block__inner figure {
+	border-radius: 12px;
+	overflow: hidden
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 .tabs .tabs__content .simple-carousel-cell .gpdc-section {
+	background: none !important
+}
+
+.home-astro-bot-mod .astro-list-games-grid .game-grid-v2 .tabs .tabs__content .simple-carousel-cell .game-grid-v2-tile__content p {
+	color: #000 !important
+}
+
+.home-astro-bot-mod .astro-list-games-grid .cmp-experiencefragment.cmp-experiencefragment--pdc-top-and-ps5-game-grid .xfpage.page.basicpage .gpdc-section {
+	background: none !important
+}
+
+.home-astro-bot-mod .astro-psplus-discover {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-psplus-discover-bg-m?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative
+}
+
+.home-astro-bot-mod .astro-psplus-discover:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .astro-psplus-discover:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+@media(min-width:1024px) {
+	.home-astro-bot-mod .astro-psplus-discover {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-psplus-discover-bg?$native--t$)
+	}
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-psplus-discover>div {
+		margin-bottom: var(--space-8)
+	}
+}
+
+.home-astro-bot-mod .astro-psplus-discover>div:after {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-psplus-discover-shape-bottom-m?$native--t$);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	bottom: -.8%;
+	content: "";
+	height: 18%;
+	left: 3%;
+	position: absolute;
+	width: 94%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-psplus-discover>div:after {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-psplus-discover-shape-bottom-29aug24?$native--t$);
+		bottom: -1%;
+		height: 20%;
+		left: 5%;
+		width: 90%
+	}
+}
+
+.home-astro-bot-mod .astro-psplus-discover .backgroundblock {
+	display: none
+}
+
+.home-astro-bot-mod .astro-psplus-discover .highlight-carousel .txt-block-title * {
+	color: #fff !important
+}
+
+.home-astro-bot-mod .astro-psplus-discover .highlight-carousel .txt-block-title .icon svg g path:first-of-type {
+	fill: currentColor
+}
+
+.home-astro-bot-mod .astro-ps-vr {
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-vr:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-vr:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner {
+	position: relative
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .background-parallax {
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .background-parallax .parallax-inner {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-thismonth-bg-parallax-m?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 120%;
+	opacity: 1;
+	width: 100%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .background-parallax .parallax-inner {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-thismonth-bg-parallax?$native--t$)
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .gpdc-section {
+	background-color: #0000 !important
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .backgroundblock {
+	display: none
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type>.gpdc-section {
+		padding-block-end: var(--space-5)
+	}
+}
+
+@media(max-width:767px) {
+
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .box,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .content-grid {
+		margin-block-start: 0 !important
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block .txt-style-mega-light,
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block .txt-style-mega-light>b,
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h1,
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h1>b,
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h2,
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h2>b {
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 28.32px;
+	font-style: normal;
+	letter-spacing: .1px;
+	line-height: 121%;
+	text-transform: uppercase
+}
+
+@media(min-width:700px) {
+
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block .txt-style-mega-light,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block .txt-style-mega-light>b,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h1,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h1>b,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h2,
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:first-of-type .body-title-block h2>b {
+		font-size: 43.9px;
+		letter-spacing: 0;
+		line-height: 125%
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .carousel .card:first-of-type .card__media .media-block:before {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-thismonth-char?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	bottom: 0;
+	height: 160px;
+	left: -105px;
+	position: absolute;
+	width: 160px;
+	z-index: 10
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .carousel .card:first-of-type .card__media .media-block:before {
+		content: ""
+	}
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .card__media {
+	overflow: visible
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .card__media .media-block {
+	position: relative
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .card__media .media-block .media-block__inner {
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+	background-color: #fff3;
+	border: 2px solid #fff3;
+	border-radius: 10px;
+	box-shadow: 0 2.13px 15.99px 0 #000;
+	padding: 7px;
+	position: relative;
+	z-index: 20
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .card__media .media-block .media-block__inner:after {
+	background-image: url(../fonts/svg-astro-carousel-border.svg);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	height: calc(100% - 14px);
+	left: 7px;
+	position: absolute;
+	top: 7px;
+	width: calc(100% - 14px)
+}
+
+.home-astro-bot-mod .cmp-experiencefragment--this-month-on-playstation-homepage-banner .cmp-container .section:nth-of-type(2) .card__media .media-block .media-block__inner figure {
+	-webkit-mask-image: url(../fonts/svg-astro-carousel-mask.svg);
+	mask-image: url(../fonts/svg-astro-carousel-mask.svg);
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-size: contain;
+	mask-size: contain
+}
+
+.home-astro-bot-mod .astro-ps-store {
+	background: #0c1869;
+	background: linear-gradient(180deg, #0c1869, #4826c3);
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-store:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .astro-ps-store:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-store:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .astro-ps-store * {
+	color: #fff !important
+}
+
+.home-astro-bot-mod .astro-ps-store .box .imageblock:after {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-store-char?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	bottom: -15px;
+	height: 70px;
+	position: absolute;
+	right: 7px;
+	width: 70px;
+	z-index: 10
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-store .box .imageblock:after {
+		bottom: -30px;
+		height: 183px;
+		right: 18px;
+		width: 183px
+	}
+}
+
+.home-astro-bot-mod .astro-ps-store .box .imageblock .media-block__inner {
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+	background-color: #fff3;
+	border: 2px solid #fff3;
+	border-radius: 10px;
+	box-shadow: 0 2.13px 15.99px 0 #000;
+	padding: 15px;
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-store .box .imageblock .media-block__inner:after {
+	background-image: url(../fonts/svg-astro-carousel-border.svg);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	height: calc(100% - 30px);
+	left: 15px;
+	position: absolute;
+	top: 15px;
+	width: calc(100% - 30px)
+}
+
+.home-astro-bot-mod .astro-ps-store .box .imageblock .media-block__inner figure {
+	-webkit-mask-image: url(../fonts/svg-astro-carousel-mask.svg);
+	mask-image: url(../fonts/svg-astro-carousel-mask.svg);
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-size: contain;
+	mask-size: contain
+}
+
+.home-astro-bot-mod .astro-ps-store .box--light {
+	background-color: #0000 !important
+}
+
+.home-astro-bot-mod .astro-ps-store .icon svg g path:first-of-type {
+	fill: currentColor
+}
+
+.home-astro-bot-mod .astro-ps-gear-store {
+	background: #0c1869;
+	background: linear-gradient(180deg, #0c1869, #4826c3);
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-gear-store:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .astro-ps-gear-store:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-gear-store:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .astro-ps-gear-store * {
+	color: #fff !important
+}
+
+.home-astro-bot-mod .astro-ps-gear-store .backgroundblock {
+	display: none
+}
+
+.home-astro-bot-mod .astro-ps-gear-store>div>.contentgrid:nth-of-type(2) .content-grid {
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-gear-store>div>.contentgrid:nth-of-type(2) .content-grid:after {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-gear-store-char-top?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: block;
+	grid-column: 2/4;
+	height: 0;
+	margin: 0 auto;
+	padding-bottom: 76%;
+	position: relative;
+	width: 100%;
+	z-index: 10
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-gear-store>div>.contentgrid:nth-of-type(2) .content-grid:after {
+		grid-column: initial;
+		height: 163px;
+		margin: initial;
+		padding-bottom: 0;
+		position: absolute;
+		right: 5%;
+		top: 130px;
+		width: 207px
+	}
+}
+
+.home-astro-bot-mod .astro-ps-gear-store>div>.mediacarousel-v2 .media-carousel__cell .media-block {
+	background-color: #fff;
+	border: 1px solid #93ffff;
+	border-radius: 20px
+}
+
+.home-astro-bot-mod .astro-ps-gear-store>div>.mediacarousel-v2 .media-carousel__cell.is-selected .media-block {
+	border-width: 2px
+}
+
+.home-astro-bot-mod .astro-ps-gear-store>div>.contentgrid:nth-of-type(4):after {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-gear-store-char-bottom-29aug-24?$native--t$);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	bottom: 0;
+	content: "";
+	height: 77px;
+	left: 5px;
+	position: absolute;
+	width: 87px;
+	z-index: 10
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-gear-store>div>.contentgrid:nth-of-type(4):after {
+		height: 153px;
+		left: 90px;
+		width: 173px
+	}
+}
+
+.home-astro-bot-mod .astro-ps-blog-title {
+	position: relative
+}
+
+.home-astro-bot-mod .astro-ps-blog-title:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-blog-title:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .background-parallax {
+	background-color: #790d71;
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	overflow: hidden;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0;
+	z-index: 100
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .background-parallax .parallax-inner {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-blog-bg-m?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 120%;
+	opacity: .6;
+	width: 100%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-blog-title .background-parallax .parallax-inner {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-blog-bg?$native--t$)
+	}
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-a {
+	background-size: 100%;
+	bottom: 0;
+	height: 100%;
+	height: 140px;
+	left: 0;
+	left: auto;
+	pointer-events: none;
+	position: absolute;
+	right: 10%;
+	top: 0;
+	width: 100%;
+	width: 198px;
+	z-index: 0;
+	z-index: 101
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-a .parallax-inner {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-blog-shape-a?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 120%;
+	opacity: 1;
+	width: 100%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-a {
+		height: 240px;
+		width: 357px
+	}
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-a>div {
+	height: 100% !important;
+	width: 100% !important
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-b {
+	background-size: 100%;
+	bottom: 0;
+	height: 100%;
+	height: 140px;
+	left: 0;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	width: 214px;
+	z-index: 0;
+	z-index: 102
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-b .parallax-inner {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-ps-blog-shape-b?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 120%;
+	opacity: 1;
+	width: 100%
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-b {
+		height: 202px;
+		width: 350px
+	}
+}
+
+.home-astro-bot-mod .astro-ps-blog-title .astro-section-ps-blog-shape-b>div {
+	height: 100% !important;
+	width: 100% !important
+}
+
+.home-astro-bot-mod .astro-ps-blog-title>div {
+	position: relative;
+	z-index: 110
+}
+
+.home-astro-bot-mod .astro-ps-blog-title * {
+	color: #fff
+}
+
+.home-astro-bot-mod .astro-ps-blog-content {
+	background-color: #0000
+}
+
+.home-astro-bot-mod .astro-ps-blog-content>div {
+	padding-bottom: 80px
+}
+
+.home-astro-bot-mod .astro-section-cta-social {
+	background: linear-gradient(90deg, #123edd, #061960);
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-cta-social-bg?$native--t$);
+	background-position: 50%;
+	background-size: cover;
+	position: relative
+}
+
+.home-astro-bot-mod .astro-section-cta-social:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+@media(max-width:767px) {
+	.home-astro-bot-mod .astro-section-cta-social:before {
+		top: -5px;
+		transform: rotate(180deg) translateX(-50%);
+		transform-origin: left
+	}
+}
+
+.home-astro-bot-mod .astro-section-cta-social:after {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-section-cta-social-char?$native--t$);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	content: "";
+	display: block;
+	height: 193px;
+	margin: 0 auto 20px;
+	pointer-events: none;
+	position: relative;
+	width: 193px
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-section-cta-social:after {
+		height: 302px;
+		margin: initial;
+		position: absolute;
+		right: -4%;
+		top: 50%;
+		transform: translateY(-50%);
+		width: 302px
+	}
+}
+
+@media(min-width:1367px) {
+	.home-astro-bot-mod .astro-section-cta-social:after {
+		right: 7%
+	}
+}
+
+.home-astro-bot-mod .astro-section-cta-social * {
+	color: #fff !important
+}
+
+.home-astro-bot-mod .astro-section-cta-social .subgrid .subgridbox .imageblock figure picture {
+	filter: brightness(0) invert(1)
+}
+
+.home-astro-bot-mod .astro-section-cta-social .contentgrid:first-of-type .box h3 {
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 25.9px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%;
+	text-transform: uppercase
+}
+
+@media(min-width:700px) {
+	.home-astro-bot-mod .astro-section-cta-social .contentgrid:first-of-type .box h3 {
+		font-size: 31.2px;
+		line-height: 122%
+	}
+}
+
+.home-astro-bot-mod .astro-section-cta-social .contentgrid:nth-of-type(2) {
+	margin: 30px 0;
+	position: relative
+}
+
+.home-astro-bot-mod .astro-section-cta-social .contentgrid:nth-of-type(2) .content-grid {
+	width: 70%
+}
+
+@media(min-width:1024px) {
+	.home-astro-bot-mod .astro-section-cta-social .contentgrid:nth-of-type(2) .content-grid {
+		width: auto
+	}
+}
+
+.home-astro-bot-mod .section-legal-disclaimer {
+	background-color: #1f35ff;
+	color: #fff
+}
+
+.home-astro-bot-mod .section-legal-disclaimer .box * {
+	font-size: .7rem !important;
+	font-weight: 500 !important
+}
+
+.home-astro-bot-mod>* {
+	position: relative
+}
+
+.home-astro-bot-mod>.cmp-container>.container>.cmp-container>div>* {
+	position: relative;
+	z-index: 50
+}
+
+.home-astro-bot-mod .pagebanner .title-block h2,
+.home-astro-bot-mod .section .txt-style-large-title.txt-block-title__title {
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 28.32px;
+	font-style: normal;
+	letter-spacing: .1px;
+	line-height: 121%;
+	text-transform: uppercase
+}
+
+@media(min-width:700px) {
+
+	.home-astro-bot-mod .pagebanner .title-block h2,
+	.home-astro-bot-mod .section .txt-style-large-title.txt-block-title__title {
+		font-size: 43.9px;
+		letter-spacing: 0;
+		line-height: 125%
+	}
+}
+
+.home-astro-bot-mod .astro-section-cta-social.astro-skip-icons .subgrid .subgridbox .imageblock figure picture {
+	filter: none
+}
+
+.astro-portal {
+	background-color: #0000;
+	position: relative;
+	z-index: 5001 !important
+}
+
+.astro-portal.portal-clicked {
+	z-index: 6001 !important
+}
+
+.astro-portal-wrapper {
+	background-color: #0000;
+	border: none;
+	cursor: pointer;
+	height: 250px;
+	left: 50%;
+	mix-blend-mode: normal;
+	opacity: 0;
+	position: absolute;
+	transform: translate(-50%, -65%) scale(0);
+	transition: transform .5s ease-in-out, opacity .5s ease-in-out;
+	width: 512px;
+	z-index: 10
+}
+
+@media(min-width:1024px) {
+	.astro-portal-wrapper {
+		height: 300px;
+		overflow: hidden
+	}
+}
+
+.portal-ready .astro-portal-wrapper {
+	opacity: 1;
+	transform: translate(-50%, -65%) scale(1)
+}
+
+.astro-portal-wrapper img {
+	height: 300px;
+	left: 0;
+	margin-top: -25px;
+	object-fit: cover;
+	object-position: center;
+	opacity: 0;
+	pointer-events: none;
+	position: absolute;
+	top: 0;
+	width: 100%
+}
+
+@media(min-width:1024px) {
+	.astro-portal-wrapper img {
+		height: 100%;
+		margin-top: 0
+	}
+}
+
+.astro-portal-wrapper img.active {
+	opacity: 1
+}
+
+.astro-portal-wrapper:focus {
+	border: 3px solid #0064b7;
+	border-radius: 15px
+}
+
+.astro-portal-wrapper .cta__inner {
+	text-indent: 200%;
+	white-space: nowrap
+}
+
+.astro-portal video {
+	height: 100%;
+	left: 50%;
+	object-fit: cover;
+	position: fixed;
+	top: 50%;
+	transform: translate(-50%, -50%) scale(1);
+	width: 100%;
+	z-index: 6001
+}
+
+@font-face {
+	font-family: FuturaNowHeadlineExtraBold;
+	src: url(/content/dam/global_pdc/en/year9/home/static/fonts/FuturaNowHeadlineExtraBold_normal_normal.otf) format("opentype"), url(../fonts/fonts-FuturaNowHeadlineExtraBold_normal_normal.woff2) format("woff2"), url(../fonts/fonts-FuturaNowHeadlineExtraBold_normal_normal.woff) format("woff")
+}
+
+.astro-toggle-container {
+	display: none;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 60px;
+	z-index: 5002
+}
+
+@media(min-width:1024px) {
+	.astro-toggle-container {
+		top: 64px
+	}
+}
+
+.astro-toggle-container.ready {
+	display: block
+}
+
+#astro-toggle {
+	background: none;
+	display: none;
+	padding: 0;
+	transition: transform .5s ease-in-out
+}
+
+#astro-toggle .backgroundblock>.media-block {
+	overflow: visible
+}
+
+#astro-toggle .backgroundblock>.media-block>.media-block__inner {
+	overflow: visible;
+	position: relative
+}
+
+#astro-toggle .backgroundblock>.media-block>.media-block__inner:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='115' height='6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M.635 1.827V.16h114v1.667L111.04 5.16H4.41L.634 1.827Z' fill='%2393FFFF'/%3E%3C/svg%3E");
+	background-position: center -1px;
+	background-repeat: no-repeat;
+	border-top: 2px solid #93ffff;
+	bottom: -7px;
+	content: "";
+	height: 5px;
+	left: 50%;
+	position: absolute;
+	top: 0;
+	top: auto;
+	transform: translateX(-50%);
+	width: 100%;
+	z-index: 1000
+}
+
+.ready #astro-toggle {
+	display: block
+}
+
+#astro-toggle .media-block__figure picture img {
+	object-fit: fill
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .contentgrid {
+		align-items: center;
+		display: flex;
+		justify-content: center
+	}
+}
+
+#astro-toggle .content-grid {
+	display: flex;
+	margin: 0;
+	padding: 0
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .content-grid {
+		align-items: center;
+		justify-content: center
+	}
+}
+
+#astro-toggle .content-grid .box {
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+	margin: 0;
+	min-height: 50px;
+	padding: 0 10px;
+	width: 100%
+}
+
+#astro-toggle .content-grid .box:before {
+	content: "";
+	display: block;
+	width: 50px
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .content-grid .box:before {
+		content: none
+	}
+
+	#astro-toggle .content-grid .box {
+		align-items: center;
+		gap: 12px;
+		height: 40px;
+		padding: 0 12px 0 0;
+		width: auto
+	}
+}
+
+#astro-toggle .content-grid .box .body-text-block {
+	flex: 1 1;
+	margin: 0
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .content-grid .box .body-text-block {
+		flex: none;
+		margin-top: -4px
+	}
+}
+
+[data-custom=off] #astro-toggle .content-grid .box .body-text-block:before {
+	aspect-ratio: 280/198;
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-off?$native--t$);
+	background-repeat: no-repeat;
+	background-size: cover;
+	content: "";
+	height: 145%;
+	position: absolute;
+	transform: translateX(-85%) rotateY(180deg)
+}
+
+[dir=rtl] [data-custom=off] #astro-toggle .content-grid .box .body-text-block:before {
+	left: 0;
+	transform: translateX(-20%) rotateY(180deg)
+}
+
+@media(min-width:1024px) {
+	[data-custom=off] #astro-toggle .content-grid .box .body-text-block:before {
+		content: none
+	}
+}
+
+.aem-AuthorLayer-Edit [data-custom=off] #astro-toggle .content-grid .box .body-text-block:before {
+	display: none !important
+}
+
+[data-custom=on] #astro-toggle .content-grid .box .body-text-block:before {
+	aspect-ratio: 280/198;
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-on?$native--t$);
+	background-repeat: no-repeat;
+	background-size: cover;
+	content: "";
+	height: 160%;
+	position: absolute;
+	transform: translateX(-80%) rotateY(180deg)
+}
+
+[dir=rtl] [data-custom=on] #astro-toggle .content-grid .box .body-text-block:before {
+	left: 0;
+	transform: translateX(-20%) rotateY(180deg)
+}
+
+@media(min-width:1024px) {
+	[data-custom=on] #astro-toggle .content-grid .box .body-text-block:before {
+		content: none
+	}
+}
+
+.aem-AuthorLayer-Edit [data-custom=on] #astro-toggle .content-grid .box .body-text-block:before {
+	display: none !important
+}
+
+#astro-toggle .content-grid .box .body-text-block .txt-block-paragraph {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%)
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .content-grid .box .body-text-block .txt-block-paragraph {
+		transform: none
+	}
+}
+
+#astro-toggle .content-grid .box .body-text-block .txt-style-base {
+	color: #fff;
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 115%;
+	margin: -2px 0 0;
+	text-transform: uppercase
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .content-grid .box .body-text-block .txt-style-base {
+		font-size: 18px;
+		margin-top: 0
+	}
+
+	#astro-toggle .content-grid .box .body-text-block .txt-block__paragraph {
+		align-items: center;
+		display: flex
+	}
+
+	#astro-toggle .content-grid .box .body-text-block .txt-block__paragraph:before {
+		aspect-ratio: 154/25;
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-lang?$native--t$);
+		background-repeat: no-repeat;
+		background-size: cover;
+		content: "";
+		display: none;
+		height: 20px;
+		margin: 6px 16px 0 0
+	}
+}
+
+#astro-toggle .buttonblock {
+	display: flex;
+	justify-content: center;
+	margin: 0
+}
+
+#astro-toggle .buttonblock .btn-block {
+	margin: 0
+}
+
+@media(min-width:1024px) {
+	#astro-toggle .buttonblock .btn-block:after {
+		aspect-ratio: 280/198;
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 200%;
+		position: absolute;
+		right: 0;
+		top: -5px;
+		transform: translateX(100%)
+	}
+}
+
+#astro-toggle .buttonblock .button {
+	display: none;
+	min-width: 70px
+}
+
+.aem-AuthorLayer-Edit #astro-toggle .buttonblock .button {
+	display: block !important
+}
+
+#astro-toggle .buttonblock .button .cta__inner {
+	background: #fff;
+	border: 1px solid #fff;
+	color: #150393;
+	font-family: FuturaNowHeadlineExtraBold;
+	font-size: 12px;
+	font-weight: 700 !important;
+	height: 30px;
+	line-height: 1 !important;
+	padding: 8px
+}
+
+#astro-toggle .buttonblock .button .cta__inner:before {
+	aspect-ratio: 1;
+	background-position: 50%;
+	background-size: cover;
+	content: "";
+	height: 80.4%;
+	position: absolute
+}
+
+#astro-toggle .buttonblock .button .cta__inner span {
+	margin-top: -3px
+}
+
+#astro-toggle .buttonblock .button:first-child .cta__inner {
+	padding-right: 32px
+}
+
+#astro-toggle .buttonblock .button:first-child .cta__inner:before {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-btn-on?$native--t$);
+	right: 2px
+}
+
+#astro-toggle .buttonblock .button:nth-child(2) .cta__inner {
+	padding-left: 30px
+}
+
+#astro-toggle .buttonblock .button:nth-child(2) .cta__inner:before {
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-btn-off?$native--t$);
+	left: 2px
+}
+
+[data-custom=off] #astro-toggle .buttonblock .btn-block {
+	margin: 0
+}
+
+@media(min-width:1024px) {
+	[data-custom=off] #astro-toggle .buttonblock .btn-block:after {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-off?$native--t$);
+		content: ""
+	}
+}
+
+[data-custom=off] #astro-toggle .buttonblock .button:nth-child(2) {
+	display: block
+}
+
+[data-custom=on] #astro-toggle .buttonblock .btn-block {
+	margin: 0
+}
+
+@media(min-width:1024px) {
+	[data-custom=on] #astro-toggle .buttonblock .btn-block:after {
+		background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-on?$native--t$);
+		content: ""
+	}
+}
+
+[data-custom=on] #astro-toggle .buttonblock .button:first-child {
+	display: block
+}
+
+#astro-toggle.small {
+	height: 62px;
+	position: absolute;
+	right: 0;
+	top: 30px;
+	width: 260px
+}
+
+#astro-toggle.small:after {
+	content: none
+}
+
+#astro-toggle.small .backgroundblock>.media-block {
+	border-radius: 8px 0 0 8px;
+	overflow: hidden
+}
+
+#astro-toggle.small .backgroundblock>.media-block>.media-block__inner:before {
+	background-image: none;
+	border-radius: 0 0 0 8px;
+	bottom: -4px;
+	overflow: hidden
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box {
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 0;
+	height: 62px;
+	padding: 0 0 2px 52px;
+	position: relative
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box:before {
+	aspect-ratio: 111/68;
+	background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-toggle-off-phase2?$native--t$);
+	bottom: 2px;
+	content: "";
+	height: 68px;
+	left: -35px;
+	position: absolute;
+	top: auto;
+	transform: none;
+	width: auto
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>* {
+	height: 100%;
+	overflow: hidden
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>.body-text-block {
+	align-content: center;
+	flex: 1 1 50%
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>.body-text-block:before {
+	display: none
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>.body-text-block>.txt-block-paragraph {
+	top: auto;
+	transform: none
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>.buttonblock {
+	flex: 1 1 45px;
+	height: 100%
+}
+
+#astro-toggle.small .contentgrid>.content-grid>.box>.buttonblock>.btn-block:after {
+	display: none
+}
+
+#astro-toggle-container {
+	background: none;
+	padding: 0;
+	position: absolute;
+	right: 20px;
+	top: 80px;
+	visibility: hidden;
+	width: auto
+}
+
+@media(min-width:700px) {
+	#astro-toggle-container {
+		top: 120px
+	}
+}
+
+#astro-toggle-container.ready {
+	visibility: visible
+}
+
+.astro-switch {
+	display: relative;
+	display: inline-block;
+	height: 46px;
+	opacity: 0;
+	width: 88px
+}
+
+.astro-switch input {
+	height: 0;
+	opacity: 0;
+	width: 0
+}
+
+.astro-switch .slider {
+	background: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-off?$native--t$);
+	background-size: cover;
+	bottom: 0;
+	cursor: pointer;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: .25s
+}
+
+.astro-switch input:checked+.slider {
+	background: url(https://gmedia.playstation.com/is/image/SIEPDC/astro-on?$native--t$);
+	background-size: cover
+}
+
+.ready .astro-switch {
+	opacity: 1;
+	transition: opacity 1s
+}
+
+/*# sourceMappingURL=main.css.map*/
